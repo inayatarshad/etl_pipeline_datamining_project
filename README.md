@@ -86,5 +86,4 @@ SQL Server
 
 Visual Studio SSDT
 
-Data Warehouse modeling principles
 <img width="626" height="293" alt="image" src="https://github.com/user-attachments/assets/5b1c4b01-ecc1-4531-bf79-cb6881c8f34a" />
